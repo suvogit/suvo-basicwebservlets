@@ -2,7 +2,7 @@
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 <%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt"%>
 
-SUVOJITH12345 SUCCESS - ${email} : ${password}
+SUVOJITH SUCCESS - ${email} : ${password}
 
 <BR/> <BR/> Scriptlet
 <BR/>~~~~~~~~~~~~~~~~~<BR/>
